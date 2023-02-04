@@ -8,7 +8,7 @@ This repository is to show off some of the skills I learned from the Image Proce
 - Edge Detection
 - Batch Processing 
 
-[Notebook]()
+[MATLAB Live Script](https://www.loom.com/share/2235113d788b43948f05b21a2c56b47d)
 
 # Development Environment
 
